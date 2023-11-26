@@ -3,6 +3,7 @@ class GforthLatest < Formula
   homepage "https://www.gnu.org/software/gforth/"
   url "https://www.complang.tuwien.ac.at/forth/gforth/Snapshots/current/gforth.tar.xz"
   license "GPL-3.0-or-later"
+  version "0.7.9"
   revision 3
 
   bottle do
